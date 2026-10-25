@@ -15,8 +15,8 @@ public class ModBlockTagsProvider extends FabricTagsProvider.BlockTagsProvider {
 
     @Override
     protected void addTags(HolderLookup.Provider registries) {
-        valueLookupBuilder(BlockTags.MINEABLE_WITH_HOE)
-                .add(ModBlocks.MENGER_SPONGE_BLOCK)
-                .add(ModBlocks.WET_MENGER_SPONGE_BLOCK);
+        tag(BlockTags.MINEABLE_WITH_HOE)
+                .add(ModBlocks.getResourceKey(ModBlocks.MENGER_SPONGE_BLOCK))
+                .add(ModBlocks.getResourceKey(ModBlocks.WET_MENGER_SPONGE_BLOCK));
     }
 }
