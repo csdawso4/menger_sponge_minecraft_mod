@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "menger_sponge:block/wet_menger_sponge_block"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "menger_sponge:menger_sponge_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_wet_menger_sponge_block": {
+      "conditions": {
+        "items": [
+          {
+            "items": "menger_sponge:wet_menger_sponge_block"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_wet_menger_sponge_block"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "menger_sponge:menger_sponge_block"
+    ]
+  }
+}
