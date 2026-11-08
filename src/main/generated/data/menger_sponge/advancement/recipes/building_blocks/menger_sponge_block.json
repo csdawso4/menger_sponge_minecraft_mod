@@ -3,7 +3,7 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "menger_sponge:menger_sponge_block"
+        "recipes": "menger_sponge:menger_sponge_block"
       },
       "trigger": "minecraft:recipe_unlocked"
     },
