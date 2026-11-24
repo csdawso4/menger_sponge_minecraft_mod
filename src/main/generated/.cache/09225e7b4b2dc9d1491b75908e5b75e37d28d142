@@ -1,0 +1,7 @@
+// 26.3	-999999999-01-01T00:00:00	menger_sponge/Model Definitions
+80cf5c847be7e5bc9349625c2aed137dfeffad1c assets/menger_sponge/blockstates/menger_sponge_block.json
+3e54f8b6b7a8f03c5c26d69d773de21784edd2d4 assets/menger_sponge/blockstates/wet_menger_sponge_block.json
+abe119a08c3957e330f28c23f6e851045cc9281f assets/menger_sponge/items/menger_sponge_block.json
+c3cc87fad3dcbad649598a502a179ac8d171b1f1 assets/menger_sponge/items/wet_menger_sponge_block.json
+5563d6987dd804a35df483fed5d40994a622b31f assets/menger_sponge/models/block/menger_sponge_block.json
+8a701465baf4d00b29984d8fff64e9b0710704b9 assets/menger_sponge/models/block/wet_menger_sponge_block.json

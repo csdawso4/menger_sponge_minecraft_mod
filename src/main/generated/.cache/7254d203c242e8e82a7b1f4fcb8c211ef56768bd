@@ -1,0 +1,3 @@
+// 26.3	-999999999-01-01T00:00:00	menger_sponge/Block Loot Tables
+af828f9bdee41edec7e2eca9fc1ba9fa2b6d0c91 data/menger_sponge/loot_table/blocks/menger_sponge_block.json
+41a66d9907a8e6899efebf945818f935f5a06ea3 data/menger_sponge/loot_table/blocks/wet_menger_sponge_block.json
